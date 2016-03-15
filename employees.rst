@@ -251,7 +251,51 @@ Last updated: ``Tue Mar 15 06:10:01 UTC 2016``
 Dean
 ****
 
-.. warning:: This employee's information is not yet available.
+Gender: Male
+
+Age: 13
+
+Mutations:
+
+- None
+
+Tagged skills:
+
+- Fuck
+- Fists
+- Track
+- Wrestle
+
+Score sheet: ::
+
+  .
+
+      brawn [14.00 /15]        cool [ 8.00 /  ]    reflexes [14.00 /  ] 
+     brains [ 8.00 / 7]      senses [ 8.00 / 7]   endurance [10.46 /  ] 
+
+Mutations // none  // 1 free
+
+       XP // 2,419 total  // 2,379 to spend
+       IP // 885 total equivalent //  284 available for gym
+
+Skill      Raw    +   + Total Depends Improve    
+fists       3.42         [13] brw,end   649xp Street fighter.                  
+dodge       2.05  -1     [10] ref,sen  1795xp A bit twitchy. (-1 tohit)        
+wrestle     1.28         [11] ref,end   518xp Rookie.                          
+fuc
+k        1.02  +1     [10] end,sen   294xp Sexually active.                 
+track       1.04  -1     [ 6] sen       576xp Found the Jack & Wendy's.        
+quickdraw   0.02         [ 6] col,ref   548xp Sloth.                           
+scavenge    0.01  -1     [ 3] end,sen   443xp Couldn't find ass with both hands
+appraise    0.01  -1     [ 2] brn,sen   554xp Worthless.                       
+focus       0.00  -3     [ 1] end,sen  1120xp Down's syndrome.                  
+  blades      0.01  -1     [ 4] ref,col  1552xp You're clueless.                 
+  quickdraw   0.56  -1     [ 4] col,ref   246xp Stephen Hawking.                 
+  sneak       0.04         [ 3] col,sen  1075xp Can't miss him!                  
+  repair      0.37  -2     [ 1] brn       493xp Worthless.                       
+  focus       0.00  -4  -2 [ 0] end,sen  1120xp Down's syndrome.                 
+  craft       0.00  -2  -1 [ 0] brn      1120xp Worthless.                       
+  persuade    0.55  -7     [-2] col,brn   252xp Worthless.    
 
 
 Eureka
