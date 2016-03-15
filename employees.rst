@@ -143,8 +143,61 @@ NEET Corporation Employees
 Aene
 ****
 
-.. todo::
-  Gather this information.
+Gender: Female
+
+Age: 13
+
+Mutations:
+
+- Brute strength
+- Ripper
+- Screech
+
+Tagged skills:
+
+- Fists
+- Medic
+- Repair
+- Scavenge
+
+Score sheet: ::
+
+  .
+
+        brawn [16.00 /19]        cool [ 8.00 /  ]    reflexes [13.00 /  ] 
+       brains [ 8.00 /  ]      senses [ 8.00 /  ]   endurance [13.00 /12] 
+
+  Mutations // brute strength, ripper, screech
+
+         XP // 12,796 total  // 8,054 to spend
+         IP // 2,102 total equivalent //  70 available for gym
+
+  Skill      Raw    +   + Total Depends Improve    
+  fists       6.00  +1  +1 [20] brw,end  3779xp Black belt.                      
+  dodge       2.33  -1     [ 9] ref,sen  1266xp Slow.                            
+  climb       2.26  -1  +2 [14] ref,end   310xp Mountaineer.                     
+  focus       2.02      +2 [12] end,sen  1029xp Staring contest champ.           
+  scavenge    2.33         [10] end,sen   201xp Hobbyist.                        
+  fuck        0.16         [ 9] end,sen   470xp Uptight prude.                   
+  wrestle     0.00  -1  +1 [ 8] ref,end  1344xp Jobber.                          
+  throw       0.01  +1     [ 8] brw,sen  1219xp Can hit the broadside of a barn. 
+  swim        0.06  -1     [ 7] end       421xp Stick to wading.                 
+  ride        0.75         [ 5] col,ref   140xp Buffoon.                         
+  medic       2.53      -3 [ 5] brn       352xp You're clueless.                 
+  quickdraw   0.30         [ 5] col,ref   392xp Stephen Hawking.                 
+  pilot       0.00      -1 [ 4] brn,ref   896xp Worthless.                       
+  repair      1.41      -3 [ 4] brn       247xp You're clueless.                 
+  bombs       0.01         [ 3] brn,col   776xp Worthless.                       
+  track       0.40         [ 3] sen       672xp Oblivious.                       
+  appraise    0.03         [ 3] brn,sen   543xp Worthless.                       
+  chemistry   0.00      -1 [ 2] brn       784xp Worthless.                       
+  sneak       0.02  -1     [ 2] col,sen  1097xp Can't miss him!                  
+  locksmith   0.00      -5 [ 0] brn,ref  1120xp Worthless.                       
+  craft       0.00      -4 [-1] brn      1120xp Worthless.                       
+  science     0.40         [-2] brn       940xp Creationist. 
+
+
+Last updated: ``Tue Mar 15 06:10:01 UTC 2016``
 
 
 Dean
