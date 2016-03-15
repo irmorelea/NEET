@@ -70,8 +70,7 @@ Last updated: ``Tue Mar 15 05:44:36 UTC 2016``
 Tibb
 ****
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 NEET Corporation Managers
@@ -203,54 +202,46 @@ Last updated: ``Tue Mar 15 06:10:01 UTC 2016``
 Dean
 ****
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Eureka
 ******
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Gaile_Baines
 ************
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Lihrr
 *****
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Maldron
 *******
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Ness
 ****
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Perfection
 **********
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
 
 
 Ristal
 ******
 
-.. todo::
-  Gather this information.
+.. warning:: This employee's information is not yet available.
