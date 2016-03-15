@@ -70,7 +70,56 @@ Last updated: ``Tue Mar 15 05:44:36 UTC 2016``
 Tibb
 ****
 
-.. warning:: This employee's information is not yet available.
+Gender: Female
+
+Age: 13
+
+Mutations:
+
+- High density
+- Iron liver
+- Snakeskin
+
+Tagged skills:
+
+- Rifles
+- Blades
+- Quickdraw
+- Repair
+
+Score sheet: ::
+
+  .
+
+        brawn [15.00 /  ]        cool [12.00 /  ]    reflexes [16.00 /  ] 
+       brains [ 8.00 /  ]      senses [ 8.00 / 7]   endurance [ 8.00 / 9] 
+
+  Mutations // iron liver, high density, snakeskin  // 1 free
+
+         XP // 13,894 total  // 13,834 to spend
+         IP // 1,450 total equivalent //  40 available for gym
+
+  Skill      Raw    +   + Total Depends Improve    
+  rifles      3.53         [15] col,ref   601xp General Chaos.
+  dodge       2.13  -1     [11] ref,sen  1644xp A bit twitchy. (-1 tohit)
+  blades      1.33         [13] ref,col   562xp You're an experienced fighter.
+  quickdraw   1.55         [13] col,ref   135xp Dude rancher.
+  fists       2.13  +1     [12] brw,end  1278xp Street fighter.
+  fish        0.00  +1     [10] col,end   336xp Hobbyist.
+  pistols     0.11         [ 9] col,ref  1545xp BB gunner.
+  ride        0.75  -2     [ 7] col,ref   140xp Circus clown.
+  fuck        0.10         [ 7] end,sen   504xp Repressed.
+  climb       0.02         [ 7] ref,end   439xp Trouble with stairs.
+  repair      1.09         [ 7] brn       382xp Can change lightbulbs.
+  pilot       0.20  -2     [ 5] brn,ref   716xp Worthless.
+  sneak       0.02  -1     [ 4] col,sen  1097xp Look, there he is!
+  swim        0.02  +1     [ 4] end       439xp Drowned in a bathtub.
+  scavenge    0.82         [ 3] end,sen    80xp Couldn't find ass with both hands
+  persuade    0.35  -5     [ 2] col,brn   364xp Worthless.
+  track       0.15  -1     [ 2] sen       952xp Oblivious.
+  appraise    0.20  -1     [ 2] brn,sen   448xp Worthless.
+
+Last updated: ``Tue Mar 15 08:01:10 UTC 2016``
 
 
 NEET Corporation Managers
